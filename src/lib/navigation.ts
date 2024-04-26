@@ -164,8 +164,16 @@ export const navigation: {
         href: '/docs/billing/overview',
       },
       {
+        title: 'Usage Limits',
+        href: '/docs/billing/limits',
+      },
+      {
         title: 'Stripe',
         href: '/docs/billing/stripe',
+      },
+      {
+        title: 'Paddle',
+        href: '/docs/billing/paddle',
       },
       {
         title: 'LemonSqueezy',
