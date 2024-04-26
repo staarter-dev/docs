@@ -13,11 +13,13 @@ The billing and subscription features in staarter.dev allow you to manage your a
 staarter.dev supports the following payment gateways out of the box:
 
 - [**Stripe**](https://stripe.com): A popular payment gateway that allows you to accept credit card payments and manage subscriptions.
+- [**Paddle**](https://paddle.com): A payment gateway that provides a complete commerce platform for SaaS businesses.
 - [**LemonSqueezy**](https://lemonsqueezy.com): A simple payment gateway that enables you to accept payments and manage subscriptions with ease.
 
 {% quick-links %}
 
 {% quick-link title="Stripe Integration" href="/docs/billing/stripe" icon="installation" description="Learn how to integrate Stripe with staarter.dev." /%}
+{% quick-link title="Paddle Integration" href="/docs/billing/paddle" icon="installation" description="Learn how to integrate Paddle with staarter.dev." /%}
 {% quick-link title="LemonSqueezy Integration" href="/docs/billing/lemonsqueezy" icon="installation" description="Learn how to integrate LemonSqueezy with staarter.dev." /%}
 
 {% /quick-links %}
