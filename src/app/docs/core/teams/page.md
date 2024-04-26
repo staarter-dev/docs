@@ -6,6 +6,10 @@ nextjs:
     description: Learn how to set up and manage teams in staarter.dev.
 ---
 
+{% callout type="warning" title="Teams are not ready yet" %}
+Teams are not yet available in staarter.dev. This documentation is a work in progress and will be updated once teams are fully implemented.
+{% /callout %}
+
 By default, staarter.dev is a single-tenant application, meaning that one user owns their resources and data. However, you can enable multi-tenancy by setting up teams in your application. Teams allow you to group users together and share resources, such as projects, tasks, and documents, among team members.
 
 ## Enabling Teams
