@@ -20,7 +20,7 @@ staarter.dev supports the following analytics providers out of the box:
 
 {% quick-link title="Google Analytics Integration" href="/docs/analytics/google-analytics" icon="installation" description="Learn how to integrate Google Analytics with staarter.dev." /%}
 {% quick-link title="Umami Integration" href="/docs/analytics/umami" icon="installation" description="Learn how to integrate Umami with staarter.dev." /%}
-{% quick-link title="Vercel Analytics" href="/docs/analytics/vercel-analytics" icon="installation" description="Learn how to use Vercel Analytics with staarter.dev." /%}
+{% quick-link title="Vercel Analytics" href="/docs/analytics/vercel" icon="installation" description="Learn how to use Vercel Analytics with staarter.dev." /%}
 {% quick-link title="Custom Analytics" href="/docs/analytics/custom" icon="installation" description="Learn how to implement custom analytics solutions in staarter.dev." /%}
 
 {% /quick-links %}

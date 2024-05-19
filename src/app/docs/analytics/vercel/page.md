@@ -13,5 +13,5 @@ Vercel Analytics is a powerful web analytics tool that provides real-time insigh
 In `apps/web/modules/analytics/index.tsx`, you can enable Vercel Analytics by changing the export statement to the following:
 
 ```jsx
-export { AnalyticsScript, useAnalytics } from './vercel-analytics'
+export { AnalyticsScript, useAnalytics } from './vercel'
 ```
