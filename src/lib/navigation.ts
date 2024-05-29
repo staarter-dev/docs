@@ -55,6 +55,10 @@ export const navigation: {
         href: '/docs/core/database',
       },
       {
+        title: 'Cron Jobs',
+        href: '/docs/core/cron',
+      },
+      {
         title: 'Internationalization',
         href: '/docs/core/internationalization',
       },
