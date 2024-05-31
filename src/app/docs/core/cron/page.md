@@ -34,9 +34,10 @@ To set up a Cron job in staarter.dev, follow these steps:
 Here's an example of how you can create a secure API endpoint for a Cron job in your Next.js application:
 
 ```tsx
+// apps/web/app/api/cron/example/route.ts
 import { createCronHandler } from '@handler'
 
-export default createCronHandler('example', async (req) => {
+export const GET = createCronHandler('example', async (req) => {
   // Perform the task you want to automate here
   return new Response('OK', { status: 200 })
 })
